@@ -252,7 +252,7 @@ img {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background-image:  url('/images/12_7_18\ \'CUT\ PRICE\'\ SURGEONS\ Medical\ assistants…\ \(2\).jpg');
+    background-image:  url('/images/surgeon.jpg');
     color:var(--text-light);
     background-repeat: no-repeat;
     background-position: center;
